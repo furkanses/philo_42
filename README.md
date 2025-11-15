@@ -20,9 +20,9 @@ Her filozofun hayatta kalabilmesi için zamanında yemek yemesi gerekir. Eğer b
 - Filozofların yaşam döngüsü:
 
   1. Çatal(ları) alır  
-  2. Yer  
-  3. Çatal(ları) bırakır  
-  4. Uyur  
+   2. Yer  
+    3. Çatal(ları) bırakır  
+   4. Uyur  
   5. Düşünür  
 
 - Simülasyon şu durumlarda sona erer:
