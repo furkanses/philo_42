@@ -19,11 +19,11 @@ Her filozofun hayatta kalabilmesi için zamanında yemek yemesi gerekir. Eğer b
 - Çatal durumları birer **pthread_mutex_t** ile korunur.
 - Filozofların yaşam döngüsü:
 
-  1. Çatal(ları) alır  
-   2. Yer  
-    3. Çatal(ları) bırakır  
-   4. Uyur  
-  5. Düşünür  
+I. Çatal(ları) alır  
+II. Yer  
+III. Çatal(ları) bırakır  
+IV. Uyur  
+V. Düşünür  
 
 - Simülasyon şu durumlarda sona erer:
   - Bir filozof ölür.
