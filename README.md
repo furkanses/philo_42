@@ -91,23 +91,8 @@ timestamp X died
 - Data race ve deadlock olmamalıdır.  
 - Makefile: `NAME`, `all`, `clean`, `fclean`, `re` kurallarını içermelidir.  
 - Derleyici: `cc`, flag’ler: `-Wall -Wextra -Werror`.
-
-## 8. Proje Yapısı (Öneri)
-
-```
-philo/
-├─ Makefile
-├─ philo.h
-├─ main.c
-├─ init.c
-├─ threads.c
-├─ routine.c
-├─ time.c
-├─ print.c
-└─ utils.c
-```
-
-## 9. Test Önerileri
+  
+## 8. Test Önerileri
 
 ```
 ./philo 1 800 200 200
